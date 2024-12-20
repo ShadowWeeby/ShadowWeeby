@@ -1,14 +1,14 @@
 ```python
 class Nova:
     def __init__(self):
-        self.name = "Nova"
+        self.name = "Shadow"
         self.role = "Learner"
-        self.language = ["Python", "JavaScript (a little bit)"]
-        self.language_spoken = ["English", "Hindi", "Assamese"]
+        self.language = ["Python", "NodeJs (Just a little bit)"]
+        self.language_spoken = ["English", "Hindi"]
 
     def say_hey(self):
-        print("Hey there! I'm Nova, and I'm exploring the world of programming.")
+        print("Hey there! I'm Shadow, and I'm exploring the world of Coding & programming")
 
-me = Nova()
-me.say_hey()
+me = Shadow()
+me.say_Yo()
 ```
