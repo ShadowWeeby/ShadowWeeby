@@ -1,5 +1,5 @@
 ```python
-class Nova:
+class Shadow:
     def __init__(self):
         self.name = "Shadow"
         self.role = "Learner"
